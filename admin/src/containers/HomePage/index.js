@@ -55,7 +55,7 @@ const HomePage = () => {
 
   return (
     <Container top bottom left right>
-      <h1>Sync Roles And Permissions</h1>
+      <h1>同步角色权限</h1>
       <P>
         Store user roles and permissions configuration as a JSON file and then
         import and reuse it any time.
